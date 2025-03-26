@@ -5,7 +5,7 @@ import SideHome from "./components/SideHome"
 import PatientsPage from "./pages/PatientsPage";
 import DashPage from "./pages/DashPage";
 import { createContext, useEffect, useState} from "react";
-import RecordPage from "./pages/RecordPAge";
+import RecordPage from "./pages/RecordPage";
 import SettingsPage from "./pages/SettingsPage";
 import PatientDetailPage from "./pages/PatientDetailPage";
 import NewPatientPage from "./pages/NewPatientPage";
