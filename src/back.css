@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.back{
+    background-image: url('./assets/stestho.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
